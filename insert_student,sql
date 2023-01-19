@@ -1,0 +1,6 @@
+INSERT INTO STUDENT VALUES
+(1, 'syed','10th',43,'male'),
+(2, 'hussain','8th',44,'male'),
+(3, 'ali','3th',34,'male'),
+(4,'asma','9th',24,'female'),
+(5,'ram','12th',15,'male');
